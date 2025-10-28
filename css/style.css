@@ -11278,3 +11278,7 @@ article p {
 #rsvp {
   display: none;
 }
+
+.timeline .row .col-md-6 p a {
+  color: #818491;
+}
