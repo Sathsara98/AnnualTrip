@@ -11282,3 +11282,8 @@ article p {
 .timeline .row .col-md-6 p a {
   color: #818491;
 }
+
+.link-c {
+  color: #818491;
+  text-decoration: underline;
+}
