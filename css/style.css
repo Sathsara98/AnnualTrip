@@ -11072,6 +11072,11 @@ a.text-dark:focus {
 }
 
 @media screen and (max-width: 768px) {
+  .doc-item {
+
+    padding: 5px !important;
+  }
+
   .container-fluid {
     margin-bottom: 0px !important;
     padding: 0px !important;
